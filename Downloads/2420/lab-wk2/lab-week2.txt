@@ -1,0 +1,41 @@
+# Utilitties :
+
+
+
+
+  1. cd (change directory): if we want to navigate between directories we use this command.
+   
+     For example: 1) cd ~/Documents it will take you to documents directory
+                  2) cd .. it will take you back one directory
+
+
+
+ 2. ls (list): this command list files and directories.
+     
+     For example: 1) ls -l this will list all the files including hidden files
+                  2) ls -a this will list all files in ling list format with details
+
+
+ 3. mkdir (make directory): Use this command to make directory.
+   
+    For example: 1) mkdir <directory name>
+                 2) mkir -p /project/lab/29 will make the directories with their parent 
+
+
+ 4. mv (move and rename) : this command move or rename files or directories.
+
+    For example: 1) mv old_file.txt new-file.txt ---> this will rename the file
+                 2) mv my_doc Documents/  ---> this will move the file to the documents directory
+
+
+ 5. rm (remove): this command will remove the file or directory.
+  
+      For example: 1) mv <file name>
+                   2) mv -r <directory name> for directories we use recursive.
+
+
+
+ 6. uname (system information) : it provides system information about your operating system.
+
+     For example: 1) uname 
+                  2) uname -a this will provide information includes kernal version
